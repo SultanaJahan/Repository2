@@ -220,7 +220,7 @@ WebDriver driver;
 		Assert.assertEquals(ActualResult, "Hello World!");
 		Thread.sleep(3000);
 		
-		
+		System.out.println("All Tests Passed");
 	}
 
 
